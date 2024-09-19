@@ -1,1 +1,1 @@
-Repo for exercises
+Repo for some algorithms
